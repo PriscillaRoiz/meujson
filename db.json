@@ -3,6 +3,7 @@
     "manga": [
 
         {
+            "id": 1,
             "img": "https://images-na.ssl-images-amazon.com/images/I/41BL4glqIFL._SX325_BO1,204,203,200_.jpg",
             "Title": "Absolute Sandman - Volume 1 (Português) Capa dura – 1 nov 2018",
             "Autor": "Neil Gaiman",
@@ -14,6 +15,7 @@
             "ISBN13": "978-8573516531"
         },
         {
+            "id": 2,
             "img": "https://images-na.ssl-images-amazon.com/images/I/41BL4glqIFL._SX325_BO1,204,203,200_.jpg",
             "Title": "Absolute Sandman - Volume 1 (Português) Capa dura – 1 nov 2018",
             "Autor": "Neil Gaiman",
@@ -25,6 +27,7 @@
             "ISBN13": "978-8573516531"
         },
         {
+            "id": 3,
             "img": "https://images-na.ssl-images-amazon.com/images/I/41BL4glqIFL._SX325_BO1,204,203,200_.jpg",
             "Title": "Absolute Sandman - Volume 1 (Português) Capa dura – 1 nov 2018",
             "Autor": "Neil Gaiman",
@@ -36,6 +39,7 @@
             "ISBN13": "978-8573516531"
         },
         {
+            "id": 4,
             "img": "https://images-na.ssl-images-amazon.com/images/I/41BL4glqIFL._SX325_BO1,204,203,200_.jpg",
             "Title": "Absolute Sandman - Volume 1 (Português) Capa dura – 1 nov 2018",
             "Autor": "Neil Gaiman",
@@ -47,6 +51,7 @@
             "ISBN13": "978-8573516531"
         },
         {
+            "id": 5,
             "img": "https://images-na.ssl-images-amazon.com/images/I/41BL4glqIFL._SX325_BO1,204,203,200_.jpg",
             "Title": "Absolute Sandman - Volume 1 (Português) Capa dura – 1 nov 2018",
             "Autor": "Neil Gaiman",
@@ -58,6 +63,7 @@
             "ISBN13": "978-8573516531"
         },
         {
+            "id": 6,
             "img": "https://images-na.ssl-images-amazon.com/images/I/41BL4glqIFL._SX325_BO1,204,203,200_.jpg",
             "Title": "Absolute Sandman - Volume 1 (Português) Capa dura – 1 nov 2018",
             "Autor": "Neil Gaiman",
